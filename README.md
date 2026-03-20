@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Thomasdacio 😁
+## Bem-vindo(a) ao perfil do Thomás Dácio 😁
 
  <div>
    <a href="https://github.com/Thomasdacio">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomasdacio&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasdacio&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,11 +14,7 @@
  
 <br>
  
-
- 
 <div> 
-  <a href="https://instagram.com/thomasdacio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- 
-
+  <a href = "mailto:thomasdacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thom%C3%A1s-d%C3%A1cio-01b60a3b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
